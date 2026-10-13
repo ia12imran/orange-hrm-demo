@@ -1,0 +1,20 @@
+{
+  "employees": [
+    {
+      "firstName": "Imran",
+      "middleName": "QA",
+      "lastName": "Automation",
+      "employeeId": "IM261002",
+      "jobTitle": "QA Engineer",
+      "employmentStatus": "Full-Time"
+    },
+    {
+      "firstName": "Aamir",
+      "middleName": "Test",
+      "lastName": "Engineer",
+      "employeeId": "AM261003",
+      "jobTitle": "Automation Tester",
+      "employmentStatus": "Full-Time"
+    }
+  ]
+}

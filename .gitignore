@@ -1,0 +1,22 @@
+
+# Dependencies
+node_modules/
+
+# Playwright reports and test results
+playwright-report/
+test-results/
+playwright/.cache/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+
+# Local editor settings
+.vscode/
